@@ -1,0 +1,13 @@
+﻿  quick_sort.cpp
+  shell_sort.cpp
+  test_quick_sort.cpp
+C:\Users\barab\source\repos\Sem33\test_quick_sort.cpp(8,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\barab\source\repos\Sem33\test_quick_sort.cpp(15,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\barab\source\repos\Sem33\test_quick_sort.cpp(22,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\barab\source\repos\Sem33\test_quick_sort.cpp(29,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\barab\source\repos\Sem33\test_quick_sort.cpp(36,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\barab\source\repos\Sem33\test_quick_sort.cpp(43,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  test_shell_sort.cpp
+  Sem33.cpp
+  Создание кода...
+  Sem33.vcxproj -> C:\Users\barab\source\repos\Sem33\x64\Debug\Sem33.exe
